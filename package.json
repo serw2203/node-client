@@ -1,0 +1,9 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kafka-node": "^2.6.0"
+  }
+}
